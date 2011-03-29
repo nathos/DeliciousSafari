@@ -1,0 +1,23 @@
+API Key (OAuth consumer key):
+dj0yJmk9Y0tkRVhlSExBaWdBJmQ9WVdrOU5YQjNZbkp1TjJrbWNHbzlNVEUyTURJNU1Ea3lOdy0tJnM9Y29uc3VtZXJzZWNyZXQmeD0yZQ--
+
+Shared Secret:
+9cb536e24df62b50597f03a3cc8b9e2138d85f5c
+
+Application ID:
+5pwbrn7i
+
+
+I think this is the base:
+https://api.login.yahoo.com/oauth/v2
+
+I think this is the auth URL:
+https://api.login.yahoo.com/oauth/v2/request_auth
+
+
+https://api.login.yahoo.com/oauth/v2/get_request_token
+
+
+
+1. Enter that info
+2. Press request token button (which changes after pressing to Request User Access)
